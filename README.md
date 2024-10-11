@@ -4,7 +4,7 @@ Script to check if a domain name is available
 ## Requirements
 python3 and whois
 
-## Installationo
+## Installation
 Make sure you have whois installed on your system. Move namecheck.py into a directory on your path like `~/bin` and make the script executable with `chmod +x namecheck.py`
 
 ### Linux (Debian)
